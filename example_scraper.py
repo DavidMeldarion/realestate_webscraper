@@ -13,7 +13,6 @@ baths = []
 size = []
 prices = []
 urls = []
-thumbnails = []
 description = []
 
 #setting up secure HTTPS Requests from https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl
